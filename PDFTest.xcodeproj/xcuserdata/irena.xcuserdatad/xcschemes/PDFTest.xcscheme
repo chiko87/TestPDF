@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BCAA93501F66904C008AA4B5"
-               BuildableName = "TestPDF.app"
-               BlueprintName = "TestPDF"
-               ReferencedContainer = "container:TestPDF.xcodeproj">
+               BlueprintIdentifier = "BC87D6421F6158670014AAB9"
+               BuildableName = "PDFTest.app"
+               BlueprintName = "PDFTest"
+               ReferencedContainer = "container:PDFTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BCAA93671F66904C008AA4B5"
-               BuildableName = "TestPDFTests.xctest"
-               BlueprintName = "TestPDFTests"
-               ReferencedContainer = "container:TestPDF.xcodeproj">
+               BlueprintIdentifier = "BC87D65E1F6158670014AAB9"
+               BuildableName = "PDFTestTests.xctest"
+               BlueprintName = "PDFTestTests"
+               ReferencedContainer = "container:PDFTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BCAA93721F66904C008AA4B5"
-               BuildableName = "TestPDFUITests.xctest"
-               BlueprintName = "TestPDFUITests"
-               ReferencedContainer = "container:TestPDF.xcodeproj">
+               BlueprintIdentifier = "BC87D6691F6158670014AAB9"
+               BuildableName = "PDFTestUITests.xctest"
+               BlueprintName = "PDFTestUITests"
+               ReferencedContainer = "container:PDFTest.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BCAA93501F66904C008AA4B5"
-            BuildableName = "TestPDF.app"
-            BlueprintName = "TestPDF"
-            ReferencedContainer = "container:TestPDF.xcodeproj">
+            BlueprintIdentifier = "BC87D6421F6158670014AAB9"
+            BuildableName = "PDFTest.app"
+            BlueprintName = "PDFTest"
+            ReferencedContainer = "container:PDFTest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BCAA93501F66904C008AA4B5"
-            BuildableName = "TestPDF.app"
-            BlueprintName = "TestPDF"
-            ReferencedContainer = "container:TestPDF.xcodeproj">
+            BlueprintIdentifier = "BC87D6421F6158670014AAB9"
+            BuildableName = "PDFTest.app"
+            BlueprintName = "PDFTest"
+            ReferencedContainer = "container:PDFTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BCAA93501F66904C008AA4B5"
-            BuildableName = "TestPDF.app"
-            BlueprintName = "TestPDF"
-            ReferencedContainer = "container:TestPDF.xcodeproj">
+            BlueprintIdentifier = "BC87D6421F6158670014AAB9"
+            BuildableName = "PDFTest.app"
+            BlueprintName = "PDFTest"
+            ReferencedContainer = "container:PDFTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

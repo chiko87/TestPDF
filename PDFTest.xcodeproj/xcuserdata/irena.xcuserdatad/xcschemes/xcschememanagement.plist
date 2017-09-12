@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>TestPDF.xcscheme</key>
+		<key>PDFTest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>BCAA93501F66904C008AA4B5</key>
+		<key>BC87D6421F6158670014AAB9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>BCAA93671F66904C008AA4B5</key>
+		<key>BC87D65E1F6158670014AAB9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>BCAA93721F66904C008AA4B5</key>
+		<key>BC87D6691F6158670014AAB9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
